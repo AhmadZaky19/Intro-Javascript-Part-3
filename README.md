@@ -2,5 +2,5 @@
 
 01.  (Then/catch) & (Try/catch)
 02.  Callback Function Implementation
-03.  ....
+03.  Promise
 04.  Fetch API
